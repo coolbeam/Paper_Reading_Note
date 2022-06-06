@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project TIM -->
+<!-- Saved: 2018-04-19, 23:07:23 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{aaae6452-c5cf-4794-83fb-c66f53668254}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-04-19, 22:53:55</Created>
+    <Resource>
+      <Filename>TIM.py</Filename>
+      <Linenumber>318</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{d9dd72e4-7bde-4bb3-b073-362bd1d5cfdc}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-04-19, 22:53:55</Created>
+    <Resource>
+      <Filename>TIM.py</Filename>
+      <Linenumber>326</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>

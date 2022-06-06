@@ -1,0 +1,13 @@
+pyqt5
+markdown2
+markdown
+commonmark
+opencv-python
+pyqt5-stubs
+PyQtWebEngine
+pyqtdarktheme
+qtawesome
+pyqt-custom-titlebar-window
+httplib2
+#markdown2Mathjax#failed to install on win10
+pymdown-extensions

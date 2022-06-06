@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project additem -->
+<!-- Saved: 2019-01-23, 21:27:01 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{d4189f67-d076-4572-a49f-bf60fdc03ce7}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-23, 21:23:17</Created>
+    <Resource>
+      <Filename>Dialog_additem.py</Filename>
+      <Linenumber>47</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{82ab0938-b9d4-475d-a0f5-77e20362f309}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-23, 21:23:17</Created>
+    <Resource>
+      <Filename>Dialog_additem.py</Filename>
+      <Linenumber>58</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{963fa879-96ba-4b0a-8277-fb2921f85968}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-23, 21:23:17</Created>
+    <Resource>
+      <Filename>Dialog_additem.py</Filename>
+      <Linenumber>69</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{1b175f30-d5ca-4a82-9fb2-c088ffac1477}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-01-23, 21:23:17</Created>
+    <Resource>
+      <Filename>Dialog_additem.py</Filename>
+      <Linenumber>82</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
