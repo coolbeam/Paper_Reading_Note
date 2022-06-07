@@ -8,7 +8,17 @@ pip install -r requirements.txt
 python main.py
 ```
 
-### 记录一下todo
+### Demo
+目前的初步效果是这样的
+![a](./data/images/demo_sample.png) 
+ 
+目前基础功能基本完成了, 能够:
+- markdown记录笔记, 截图粘贴的图片会保存在`./data/images`下面, 笔记的文字内容会保存在`./data/data.pkl`下面
+- 服务器同步, 目前没有服务器同步, 我是在github开了一个私有的project,通过github进行同步
+- 欢迎提出关于需要什么样功能的建议
+ 
+ 
+ ### 记录一下todo
  - [ ] 软件的第三页做成一个计划安排的贴纸, 正好分了5份, 对应周一到周五, 也许是得7份吧, 对应一周7天, 加一个列表, 展示之前的,每个周的安排, 选一个周就载入到笔记页面中. 
  最右边再做一个markdown展示窗口, 选中哪个窗口, 就显示哪个窗口的markdown信息?
  - [ ] 自定义边框，默认的顶部window太难看了，参考： [pyqt-custom-titlebar-window](https://github.com/yjg30737/pyqt-custom-titlebar-window)
@@ -39,6 +49,7 @@ python main.py
  - [x] 添加一下status对一些动作进行说明，比如添加note的时候有重复title，或者已经存在空note，比如一些按钮的功能 
  - [x] 发现一个bug，好像用这个preview里面的链接点击打开的pdf网页，在关掉的时候会让浏览器崩掉，小心一点，应该不影响使用
  - [x] 设置类似于qq的VIP，就是有些note的标题颜色改变？具有标签`收藏`的note在list里面显示为红色,当然去掉该标签以后也就恢复了
+ 
  
 ## Thanks
  - [学习demo: PyQt](https://github.com/amikey/PyQt)
